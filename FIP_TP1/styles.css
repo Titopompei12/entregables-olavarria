@@ -1,0 +1,22 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    color: #253a26;
+}
+
+header {
+    background: #047ff3;
+    color: #fff;
+    padding: 10px 0;
+    text-align: center;
+}
+
+
+.raza {
+    margin-bottom: 15px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    text-align: center;
+    
+}
